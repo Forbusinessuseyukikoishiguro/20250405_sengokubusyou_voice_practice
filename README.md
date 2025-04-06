@@ -1,0 +1,2 @@
+# 20250405_sengokubusyou_voice_practice
+2025/04/06_戦国武将のキャラクター音声生成練習　
